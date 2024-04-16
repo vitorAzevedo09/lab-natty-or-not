@@ -15,7 +15,7 @@ Pesquisamos amplamente sobre o fascinante mundo do Middleware Orientado a Mensag
 ## 🚀 Resultados
 O e-book apresenta um conteúdo envolvente, demonstrando como a **MOM** podem ser uma ferramenta poderosa na construção de sistemas altamente escaláveis.
 
-[LINK PARA O E-BOOK AQUI]()
+[LINK PARA O E-BOOK AQUI](https://github.com/vitorAzevedo09/lab-natty-or-not/blob/main/ebook.pdf)
 
 ## 💭 Reflexão
 Ao criar este eBook sobre Middleware Orientado a Mensagem (MOM) e sua implementação em Python, fiquei profundamente imerso na complexidade e no potencial desta tecnologia. Ao longo desse processo, refleti sobre como as soluções de middleware desempenham um papel fundamental na interconexão de sistemas distribuídos e na facilitação da comunicação entre aplicativos.
